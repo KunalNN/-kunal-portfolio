@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1B6rKx0spOVcIbkQcuvcTt3C9qMC4sNUg/view?usp=share_link",
-  portfolio_repository: "https://github.com/KunalNN/masterPortfolio",
+  portfolio_repository: "https://www.linkedin.com/in/kunal-narwani/",
   githubProfile: "https://github.com/KunalNN",
 };
 
@@ -380,30 +380,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Radboud University",
+      subtitle: "Bachelor's Degree, Computer Science",
+      logo_path: "radboud_logo.svg",
+      alt_name: "Radboud University",
+      duration: "Aug 2022 - Jan 2026",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Pursuing a Computer Science bachelor's degree with a focus on building scalable, production-ready software and intelligent systems.",
+        "⚡ Coursework and projects span Data Analysis, Artificial Neural Networks, Artificial Intelligence, Software Development, Cluster Management, and Computational Complexity.",
+        "⚡ Hands-on experience with Python, React, and modern development practices to deliver impactful solutions.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.ru.nl/en",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "Victorious Kidss Educares",
+      subtitle: "International Baccalaureate (IB) Diploma",
+      logo_path: "victorious_logo.svg",
+      alt_name: "Victorious Kidss Educares",
+      duration: "Jan 2020 - May 2022",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Completed the IB Diploma Programme with a final grade of 37 and a strong STEM concentration.",
+        "⚡ Higher Level coursework: Mathematics AA (6), Computer Science (7), and Business Management (6); Standard Level coursework: Physics (6), English (6), French (4).",
+        "⚡ Developed collaborative, analytical, and leadership skills through classroom initiatives and co-curricular activities.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://victoriouskidsseducares.org/",
     },
   ],
 };
@@ -726,7 +726,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "kunal_photo.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
