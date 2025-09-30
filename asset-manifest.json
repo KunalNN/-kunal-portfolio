@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/-kunal-portfolio/static/css/main.14bf4825.chunk.css",
-    "main.js": "/-kunal-portfolio/static/js/main.875d4e98.chunk.js",
-    "main.js.map": "/-kunal-portfolio/static/js/main.875d4e98.chunk.js.map",
+    "main.js": "/-kunal-portfolio/static/js/main.9fd7fd51.chunk.js",
+    "main.js.map": "/-kunal-portfolio/static/js/main.9fd7fd51.chunk.js.map",
     "runtime-main.js": "/-kunal-portfolio/static/js/runtime-main.c4d1fec6.js",
     "runtime-main.js.map": "/-kunal-portfolio/static/js/runtime-main.c4d1fec6.js.map",
     "static/js/2.8adbeea4.chunk.js": "/-kunal-portfolio/static/js/2.8adbeea4.chunk.js",
     "static/js/2.8adbeea4.chunk.js.map": "/-kunal-portfolio/static/js/2.8adbeea4.chunk.js.map",
     "index.html": "/-kunal-portfolio/index.html",
-    "precache-manifest.0fafcb349d396f5ae1e3a368ab304d79.js": "/-kunal-portfolio/precache-manifest.0fafcb349d396f5ae1e3a368ab304d79.js",
+    "precache-manifest.00cb7a8faef71c2aa36b1be51aebb317.js": "/-kunal-portfolio/precache-manifest.00cb7a8faef71c2aa36b1be51aebb317.js",
     "service-worker.js": "/-kunal-portfolio/service-worker.js",
     "static/css/main.14bf4825.chunk.css.map": "/-kunal-portfolio/static/css/main.14bf4825.chunk.css.map",
     "static/media/3D-box-software-en.mp4": "/-kunal-portfolio/static/media/3D-box-software-en.a51f7169.mp4",
@@ -72,6 +72,6 @@
     "static/js/runtime-main.c4d1fec6.js",
     "static/js/2.8adbeea4.chunk.js",
     "static/css/main.14bf4825.chunk.css",
-    "static/js/main.875d4e98.chunk.js"
+    "static/js/main.9fd7fd51.chunk.js"
   ]
 }
