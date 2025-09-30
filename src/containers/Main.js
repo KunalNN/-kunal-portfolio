@@ -12,8 +12,24 @@ import Error404 from "../pages/errors/error404/Error";
 
 export default class Main extends Component {
   render() {
+    const publicUrl = process.env.PUBLIC_URL;
+    let basename = "/";
+    if (publicUrl && publicUrl !== ".") {
+      try {
+        basename = new URL(publicUrl, window.location.origin).pathname;
+      } catch (error) {
+        // Fallback: attempt to derive pathname manually if URL constructor fails
+        const anchor = document.createElement("a");
+        anchor.href = publicUrl;
+        basename = anchor.pathname;
+      }
+      if (!basename) {
+        basename = "/";
+      }
+    }
+
     return (
-      <BrowserRouter basename="/">
+      <BrowserRouter basename={basename}>
         <Switch>
           <Route
             path="/"
