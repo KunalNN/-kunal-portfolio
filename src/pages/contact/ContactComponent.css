@@ -60,6 +60,12 @@
   height: auto;
 }
 
+.contact-profile-video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .blog-heading-img-div > * {
   max-width: 100%;
   height: auto;
