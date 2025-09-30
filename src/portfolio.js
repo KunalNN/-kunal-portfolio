@@ -550,6 +550,35 @@ const projectsHeader = {
   avatar_image_path: "Programming-amico.svg",
 };
 
+// Hobbies Page
+const hobbiesPage = {
+  title: "Hobbies",
+  subtitle:
+    "Activities that keep me grounded outside of work and studies, reminding me to stay curious and playful.",
+  hobbies: [
+    {
+      title: "Bouldering",
+      descriptions: [
+        "I have been bouldering consistently for a year, learning how to read routes and move with control.",
+        "Topping 6c+ problems keeps me chasing new challenges and celebrating every small improvement.",
+        "Whether indoors or on real rock, I love the mix of problem solving, strength, and community the sport offers.",
+      ],
+      image_path: "bouldering.svg",
+      image_alt: "Illustration of a climber bouldering",
+    },
+    {
+      title: "Road Cycling",
+      descriptions: [
+        "Weekend road rides help me explore new routes around the Netherlands and disconnect from screens.",
+        "I enjoy tracking progress on longer climbs and experimenting with pacing during group rides.",
+        "Maintaining the bike and dialing in fit has become a fun tinkering hobby of its own.",
+      ],
+      image_path: "roadbike.png",
+      image_alt: "Illustration of a cyclist on a road bike",
+    },
+  ],
+};
+
 // Contact Page
 const contactPageData = {
   contactSection: {
@@ -590,5 +619,6 @@ export {
   certifications,
   experience,
   projectsHeader,
+  hobbiesPage,
   contactPageData,
 };
